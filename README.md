@@ -1,2 +1,2 @@
 # Papaers
-Collection of Papers i read
+Collection of papers i have read.
